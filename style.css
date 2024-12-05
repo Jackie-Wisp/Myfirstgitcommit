@@ -1,0 +1,24 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: skyblue;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    border: 10px;
+    border-color: azure;
+}
+.p {
+    text-align: left;
+    
+}
+.rex {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
